@@ -1,0 +1,404 @@
+D, [2026-03-08T23:48:44.458164 #4167] DEBUG -- : UNSOLVED question ids and creators: [
+    [ 0] {
+            :question_id => "1563278",
+        :original_poster => "unity3"
+    },
+    [ 1] {
+            :question_id => "1563697",
+        :original_poster => "sunfish62"
+    },
+    [ 2] {
+            :question_id => "1563737",
+        :original_poster => "Tombarkas"
+    },
+    [ 3] {
+            :question_id => "1563963",
+        :original_poster => "ukg62"
+    },
+    [ 4] {
+            :question_id => "1564006",
+        :original_poster => "dawhit50"
+    },
+    [ 5] {
+            :question_id => "1564107",
+        :original_poster => "Alan.online"
+    },
+    [ 6] {
+            :question_id => "1564383",
+        :original_poster => "stillunfolding"
+    },
+    [ 7] {
+            :question_id => "1564393",
+        :original_poster => "lemuelb2"
+    },
+    [ 8] {
+            :question_id => "1564480",
+        :original_poster => "patrick206"
+    },
+    [ 9] {
+            :question_id => "1564496",
+        :original_poster => "tom.hilla"
+    },
+    [10] {
+            :question_id => "1564546",
+        :original_poster => "myonarch"
+    },
+    [11] {
+            :question_id => "1564679",
+        :original_poster => "usa895245"
+    },
+    [12] {
+            :question_id => "1564787",
+        :original_poster => "daisysmom"
+    },
+    [13] {
+            :question_id => "1564989",
+        :original_poster => "yashwantk784"
+    },
+    [14] {
+            :question_id => "1565043",
+        :original_poster => "moz2u"
+    },
+    [15] {
+            :question_id => "1565189",
+        :original_poster => "gweukd"
+    },
+    [16] {
+            :question_id => "1565266",
+        :original_poster => "Tombarkas"
+    },
+    [17] {
+            :question_id => "1565379",
+        :original_poster => "patinogus"
+    },
+    [18] {
+            :question_id => "1565527",
+        :original_poster => "maartenjanbakker"
+    },
+    [19] {
+            :question_id => "1565559",
+        :original_poster => "bmicheli35"
+    },
+    [20] {
+            :question_id => "1565589",
+        :original_poster => "rizal.17.04.1998"
+    },
+    [21] {
+            :question_id => "1565590",
+        :original_poster => "rizal.17.04.1998"
+    },
+    [22] {
+            :question_id => "1565637",
+        :original_poster => "dr.maud.fuhrmann"
+    },
+    [23] {
+            :question_id => "1565650",
+        :original_poster => "blm7171"
+    },
+    [24] {
+            :question_id => "1565709",
+        :original_poster => "joelcpat12"
+    },
+    [25] {
+            :question_id => "1565794",
+        :original_poster => "jjcdennis"
+    },
+    [26] {
+            :question_id => "1565809",
+        :original_poster => "glozon"
+    },
+    [27] {
+            :question_id => "1565871",
+        :original_poster => "jjcdennis"
+    },
+    [28] {
+            :question_id => "1565909",
+        :original_poster => "sadiqmohammed9020"
+    },
+    [29] {
+            :question_id => "1565925",
+        :original_poster => "mohammadi.fa.afgh"
+    },
+    [30] {
+            :question_id => "1566030",
+        :original_poster => "jenshabermann"
+    },
+    [31] {
+            :question_id => "1566367",
+        :original_poster => "jaapjvanmourik"
+    },
+    [32] {
+            :question_id => "1566423",
+        :original_poster => "alan.rankin71"
+    },
+    [33] {
+            :question_id => "1566429",
+        :original_poster => "ear10"
+    },
+    [34] {
+            :question_id => "1566514",
+        :original_poster => "simon.mrochen"
+    },
+    [35] {
+            :question_id => "1566639",
+        :original_poster => "dario_gabrielli64"
+    },
+    [36] {
+            :question_id => "1566676",
+        :original_poster => "victoriadnotyu"
+    },
+    [37] {
+            :question_id => "1566698",
+        :original_poster => "technojee"
+    },
+    [38] {
+            :question_id => "1566841",
+        :original_poster => "TimothyP"
+    },
+    [39] {
+            :question_id => "1566934",
+        :original_poster => "cclub899"
+    },
+    [40] {
+            :question_id => "1567146",
+        :original_poster => "rc.shummiclaire"
+    },
+    [41] {
+            :question_id => "1567384",
+        :original_poster => "asmwent"
+    },
+    [42] {
+            :question_id => "1567402",
+        :original_poster => "dario_gabrielli64"
+    },
+    [43] {
+            :question_id => "1567409",
+        :original_poster => "stephen.davies54"
+    },
+    [44] {
+            :question_id => "1567870",
+        :original_poster => "daniel89"
+    },
+    [45] {
+            :question_id => "1567985",
+        :original_poster => "anu844228"
+    },
+    [46] {
+            :question_id => "1568134",
+        :original_poster => "miworei"
+    },
+    [47] {
+            :question_id => "1568157",
+        :original_poster => "Samuel"
+    },
+    [48] {
+            :question_id => "1568168",
+        :original_poster => "haslinger101"
+    },
+    [49] {
+            :question_id => "1568287",
+        :original_poster => "GrumpyMonkey"
+    }
+]
+D, [2026-03-08T23:48:44.458314 #4167] DEBUG -- : TRUSTED contributors: [
+    [0] "platform34",
+    [1] "Yu5tiqX9og",
+    [2] "wsmwk"
+]
+D, [2026-03-08T23:48:44.461035 #4167] DEBUG -- : answers_table: #<CSV::Table mode:col_or_row row_count:81>
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1791118,1558282,2026-01-03 11:38:02 -0800,2026-01-03 11:38:02 -0800,<p>The signature is the information you want to appear at the bottom of every email you compose and send. It's template information saving you typing it on each email. It can be left blank if not required. </p><p>A business email might have a signature that includes; </p> <ul><li> [Name] </li><li> [Job Title] </li><li> [Company Name] </li><li> [Phone Number] </li></ul> <p>A personal email might simply be signed... </p><p>Regards [Name] </p>,platform34,false,0,0
+1791278,1558315,2026-01-04 04:57:42 -0800,2026-01-04 04:57:42 -0800,"<p>My Request is ""almost"" the same. I would like to duplicate Thunderbird on my PC with Thunderbird on my Android Phone. Hopefully with them both completely in sync. Regards, Paul </p>",pebbleridge13,false,0,0
+1791591,1558528,2026-01-05 08:57:29 -0800,2026-01-05 08:57:29 -0800,"<p>Hi Tombarkas </p><p>What do you mean ""It makes no difference"". Could you detail what your exceptions are versus what your observing. </p><p><strong>Unified inbox folder</strong> </p><p>The only area where the action is limited is within the unified inbox folder. There you must open the email first before moving it. Moving from the message list is not available. </p> <ol><li> Open email </li><li> Press 3 dot menu </li><li> Select Move, or refile &gt; Move </li></ol> <p><strong>For other accounts &amp; folders</strong> </p><p><em>From the message list view</em> </p> <ol><li> Select message(s) </li><li> Press 3 dot menu </li><li> Select move. </li></ol> <p><em>From an open email.</em> </p> <ol><li> Press 3 dot menu </li><li> Select Move, or refile &gt; Move </li></ol> <p><strong>Swipe</strong> </p><p>The swipe operation also appears to work for the move operation. Swiping displays folder list allowing you to choose where to move the email to. </p>",platform34,false,0,0
+1791599,1558622,2026-01-05 09:44:58 -0800,2026-01-05 09:44:58 -0800,"<p>Can you provide greater detail please. </p><p>What version of the Android app are you running and who is your email provider. </p><p>Have you completed the first time setup after app installation and successfully added an email account? </p><p>How did you complete the account addition? Manually by entering email &amp; completing authentication or by scanning QR code from Thunderbird desktop? </p><p>Within the app, can you navigate to the following setting pages. </p><p>Settings &gt; account &gt; fetching mail &gt; incoming server Settings &gt; account &gt; sending mail &gt; outgoing server </p><p>Please click next on each of these pages, which will test connection to and authentication with the server? Does each complete successfully or report an error? </p><p>Do you know if your account is using Imap or pop3 connections? </p>",platform34,false,0,0
+1791602,1558622,2026-01-05 09:56:50 -0800,2026-01-05 09:56:50 -0800,"<p>Hi, Sorry for not providing more information to start with, but I didn't know what was going on. I'll gather the information together and reply properly. Many thanks  Regards, Paul. </p>",pebbleridge13,false,0,0
+
+D, [2026-03-08T23:48:44.461087 #4167] DEBUG -- : q:{:question_id=>"1563278", :original_poster=>"unity3"}
+D, [2026-03-08T23:48:44.461442 #4167] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1797502,
+          :question_id => 1563278,
+              :created => "2026-01-31 18:06:03 -0800",
+              :updated => "2026-01-31 18:12:59 -0800",
+              :content => "<p>Can you carify what you mean by \"nothing is going into any of the sent folders that I have sent\"? </p><p>A. You're not receiving any emails for a particular account. B. You're not receiving emails which you expect to arrive/show in a folder other than \"Inbox\". C. After sending an email, it is not being moved to the \"sent mail\" folder. </p><p>For point B, you need to enable sync on any custom folders you have. To do this... </p><p>1. Open the account list. 2. Select the applicable account. 3. Press \"manage folders\" (bottom of list). 4. Tap desired folder. 5. Toggle \"sync\" on. </p><p>Repeat for each required folder. </p><p>To manually sync accounts ... 1. Open the account list. 2. Tap the down arrow. 3. Tap the \"Sync all accounts\" button. </p><p>Please also ensure the app is excluded from any android battery optimisation and allowed to run in the background. </p><p>1. Long press the Thunderbird launcher icon. 2. Select \"App Info\" 3. Tap battery usage. 4. Toggle \"Allow background activity\" to ON </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 1,
+        :num_unhelpful => 0
+    },
+    [1] {
+                   :id => 1797569,
+          :question_id => 1563278,
+              :created => "2026-02-01 08:24:24 -0800",
+              :updated => "2026-02-01 08:24:24 -0800",
+              :content => "<p>Thank you for your response ... </p><p>When I send an email nothing appears in my sent folder. The six codes finally came but the codes came over an hour later. Can you tell me how to refresh this email program please? I could have refreshed and perhaps received the codes they were sending to set up an account.  </p><p>I would say B and C apply. I followed all of your directions to the best of my ability, the only thing under my folders not selected as push. I sure hope this clears us up, I really appreciate you taking the time to help me. Thank you </p>",
+              :creator => "unity3",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [2] {
+                   :id => 1797580,
+          :question_id => 1563278,
+              :created => "2026-02-01 10:05:52 -0800",
+              :updated => "2026-02-01 10:05:52 -0800",
+              :content => "<p>No problem .. </p><p>A refresh is performed by pressing the \"sync all accounts\" button as described in my previous reply. I've attached a screen shot for reference. </p><p>In regard to emails not being moved to your sent items folder... </p><p>1a. Navigate to: settings &gt; account &gt;  sending mail 1b. Check \"Upload sent messages\" (to sent folder after sending) is ticked. </p><p>2a. Navigate to: settings &gt; account &gt; folders. 2b. Check \"Sent folder\" has a folder name assigned, usually it should say Automatic (sent). 2c. Set the folder if it shows a value  = none (not assigned). </p><p>Delayed email fetching is usually due to the app not having permission to run in the background, hence the steps suggested in the previous reply. </p><p>You can also enable the \"push\" service which delivers emails immediately, rather than syncing every 15 minutes. See the guide linked below. </p><p><a href=\"https://support.mozilla.org/en-US/kb/configure-push-email-thunderbird-android\" rel=\"nofollow\">https://support.mozilla.org/en-US/kb/configure-push-email-thunderbird-android</a> </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [3] {
+                   :id => 1797601,
+          :question_id => 1563278,
+              :created => "2026-02-01 11:30:17 -0800",
+              :updated => "2026-02-01 11:30:17 -0800",
+              :content => "<p>Thank you again for your help. </p><p>I went to open each folder individually. Everything is selected under each folder. I am now getting the sent mail in the sent folder! Hooray and thank you,! </p><p>I did sync all accounts before when you advised me to. </p><p>I have also put push back on because it's immediate and I think that's why I'm not getting those codes that Mozilla was sending me in time.? I had read something in an advised me not to have push selected and so I had removed it. </p><p>I will have to go back and reread and get familiar with sync all accounts so I can refresh to get something that is on a 5-minute timeline. </p><p>I'm not sure but I think we have resolved everything, I apologize I'm still dealing with all this winter weather and I can't get my vehicles out and I just found out AAA doesn't go on dirt roads ... perhaps they should have stated that before I signed up for it </p>",
+              :creator => "unity3",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [4] {
+                   :id => 1797602,
+          :question_id => 1563278,
+              :created => "2026-02-01 11:33:55 -0800",
+              :updated => "2026-02-01 11:33:55 -0800",
+              :content => "<p>You're such a blessing, I'm sure many will be helped by you. </p>",
+              :creator => "unity3",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-03-08T23:48:44.461518 #4167] DEBUG -- : answer: {
+               :id => 1797569,
+      :question_id => 1563278,
+          :created => "2026-02-01 08:24:24 -0800",
+          :updated => "2026-02-01 08:24:24 -0800",
+          :content => "<p>Thank you for your response ... </p><p>When I send an email nothing appears in my sent folder. The six codes finally came but the codes came over an hour later. Can you tell me how to refresh this email program please? I could have refreshed and perhaps received the codes they were sending to set up an account.  </p><p>I would say B and C apply. I followed all of your directions to the best of my ability, the only thing under my folders not selected as push. I sure hope this clears us up, I really appreciate you taking the time to help me. Thank you </p>",
+          :creator => "unity3",
+          :is_spam => "false",
+      :num_helpful => 0,
+    :num_unhelpful => 0
+} is from original_poster
+D, [2026-03-08T23:48:44.461582 #4167] DEBUG -- : answer: {
+               :id => 1797601,
+      :question_id => 1563278,
+          :created => "2026-02-01 11:30:17 -0800",
+          :updated => "2026-02-01 11:30:17 -0800",
+          :content => "<p>Thank you again for your help. </p><p>I went to open each folder individually. Everything is selected under each folder. I am now getting the sent mail in the sent folder! Hooray and thank you,! </p><p>I did sync all accounts before when you advised me to. </p><p>I have also put push back on because it's immediate and I think that's why I'm not getting those codes that Mozilla was sending me in time.? I had read something in an advised me not to have push selected and so I had removed it. </p><p>I will have to go back and reread and get familiar with sync all accounts so I can refresh to get something that is on a 5-minute timeline. </p><p>I'm not sure but I think we have resolved everything, I apologize I'm still dealing with all this winter weather and I can't get my vehicles out and I just found out AAA doesn't go on dirt roads ... perhaps they should have stated that before I signed up for it </p>",
+          :creator => "unity3",
+          :is_spam => "false",
+      :num_helpful => 0,
+    :num_unhelpful => 0
+} is from original_poster
+D, [2026-03-08T23:48:44.461639 #4167] DEBUG -- : answer: {
+               :id => 1797602,
+      :question_id => 1563278,
+          :created => "2026-02-01 11:33:55 -0800",
+          :updated => "2026-02-01 11:33:55 -0800",
+          :content => "<p>You're such a blessing, I'm sure many will be helped by you. </p>",
+          :creator => "unity3",
+          :is_spam => "false",
+      :num_helpful => 0,
+    :num_unhelpful => 0
+} is from original_poster
+D, [2026-03-08T23:48:44.461652 #4167] DEBUG -- : q:{:question_id=>"1563697", :original_poster=>"sunfish62"}
+D, [2026-03-08T23:48:44.461682 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.461690 #4167] DEBUG -- : q:{:question_id=>"1563737", :original_poster=>"Tombarkas"}
+D, [2026-03-08T23:48:44.461728 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.461736 #4167] DEBUG -- : q:{:question_id=>"1563963", :original_poster=>"ukg62"}
+D, [2026-03-08T23:48:44.461763 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.461770 #4167] DEBUG -- : q:{:question_id=>"1564006", :original_poster=>"dawhit50"}
+D, [2026-03-08T23:48:44.461797 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.461805 #4167] DEBUG -- : q:{:question_id=>"1564107", :original_poster=>"Alan.online"}
+D, [2026-03-08T23:48:44.461831 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.461838 #4167] DEBUG -- : q:{:question_id=>"1564383", :original_poster=>"stillunfolding"}
+D, [2026-03-08T23:48:44.461865 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.461872 #4167] DEBUG -- : q:{:question_id=>"1564393", :original_poster=>"lemuelb2"}
+D, [2026-03-08T23:48:44.461900 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.461907 #4167] DEBUG -- : q:{:question_id=>"1564480", :original_poster=>"patrick206"}
+D, [2026-03-08T23:48:44.461934 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.461940 #4167] DEBUG -- : q:{:question_id=>"1564496", :original_poster=>"tom.hilla"}
+D, [2026-03-08T23:48:44.461967 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.461974 #4167] DEBUG -- : q:{:question_id=>"1564546", :original_poster=>"myonarch"}
+D, [2026-03-08T23:48:44.462009 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462016 #4167] DEBUG -- : q:{:question_id=>"1564679", :original_poster=>"usa895245"}
+D, [2026-03-08T23:48:44.462053 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462060 #4167] DEBUG -- : q:{:question_id=>"1564787", :original_poster=>"daisysmom"}
+D, [2026-03-08T23:48:44.462086 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462093 #4167] DEBUG -- : q:{:question_id=>"1564989", :original_poster=>"yashwantk784"}
+D, [2026-03-08T23:48:44.462120 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462126 #4167] DEBUG -- : q:{:question_id=>"1565043", :original_poster=>"moz2u"}
+D, [2026-03-08T23:48:44.462153 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462160 #4167] DEBUG -- : q:{:question_id=>"1565189", :original_poster=>"gweukd"}
+D, [2026-03-08T23:48:44.462186 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462193 #4167] DEBUG -- : q:{:question_id=>"1565266", :original_poster=>"Tombarkas"}
+D, [2026-03-08T23:48:44.462219 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462226 #4167] DEBUG -- : q:{:question_id=>"1565379", :original_poster=>"patinogus"}
+D, [2026-03-08T23:48:44.462252 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462259 #4167] DEBUG -- : q:{:question_id=>"1565527", :original_poster=>"maartenjanbakker"}
+D, [2026-03-08T23:48:44.462285 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462292 #4167] DEBUG -- : q:{:question_id=>"1565559", :original_poster=>"bmicheli35"}
+D, [2026-03-08T23:48:44.462319 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462326 #4167] DEBUG -- : q:{:question_id=>"1565589", :original_poster=>"rizal.17.04.1998"}
+D, [2026-03-08T23:48:44.462362 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462369 #4167] DEBUG -- : q:{:question_id=>"1565590", :original_poster=>"rizal.17.04.1998"}
+D, [2026-03-08T23:48:44.462397 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462407 #4167] DEBUG -- : q:{:question_id=>"1565637", :original_poster=>"dr.maud.fuhrmann"}
+D, [2026-03-08T23:48:44.462434 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462441 #4167] DEBUG -- : q:{:question_id=>"1565650", :original_poster=>"blm7171"}
+D, [2026-03-08T23:48:44.462467 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462474 #4167] DEBUG -- : q:{:question_id=>"1565709", :original_poster=>"joelcpat12"}
+D, [2026-03-08T23:48:44.462500 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462507 #4167] DEBUG -- : q:{:question_id=>"1565794", :original_poster=>"jjcdennis"}
+D, [2026-03-08T23:48:44.462533 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462540 #4167] DEBUG -- : q:{:question_id=>"1565809", :original_poster=>"glozon"}
+D, [2026-03-08T23:48:44.462572 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462580 #4167] DEBUG -- : q:{:question_id=>"1565871", :original_poster=>"jjcdennis"}
+D, [2026-03-08T23:48:44.462606 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462613 #4167] DEBUG -- : q:{:question_id=>"1565909", :original_poster=>"sadiqmohammed9020"}
+D, [2026-03-08T23:48:44.462639 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462646 #4167] DEBUG -- : q:{:question_id=>"1565925", :original_poster=>"mohammadi.fa.afgh"}
+D, [2026-03-08T23:48:44.462682 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462689 #4167] DEBUG -- : q:{:question_id=>"1566030", :original_poster=>"jenshabermann"}
+D, [2026-03-08T23:48:44.462715 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462722 #4167] DEBUG -- : q:{:question_id=>"1566367", :original_poster=>"jaapjvanmourik"}
+D, [2026-03-08T23:48:44.462748 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462755 #4167] DEBUG -- : q:{:question_id=>"1566423", :original_poster=>"alan.rankin71"}
+D, [2026-03-08T23:48:44.462781 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462788 #4167] DEBUG -- : q:{:question_id=>"1566429", :original_poster=>"ear10"}
+D, [2026-03-08T23:48:44.462814 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462820 #4167] DEBUG -- : q:{:question_id=>"1566514", :original_poster=>"simon.mrochen"}
+D, [2026-03-08T23:48:44.462858 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462865 #4167] DEBUG -- : q:{:question_id=>"1566639", :original_poster=>"dario_gabrielli64"}
+D, [2026-03-08T23:48:44.462892 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462899 #4167] DEBUG -- : q:{:question_id=>"1566676", :original_poster=>"victoriadnotyu"}
+D, [2026-03-08T23:48:44.462925 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462932 #4167] DEBUG -- : q:{:question_id=>"1566698", :original_poster=>"technojee"}
+D, [2026-03-08T23:48:44.462958 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.462964 #4167] DEBUG -- : q:{:question_id=>"1566841", :original_poster=>"TimothyP"}
+D, [2026-03-08T23:48:44.463000 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.463007 #4167] DEBUG -- : q:{:question_id=>"1566934", :original_poster=>"cclub899"}
+D, [2026-03-08T23:48:44.463035 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.463042 #4167] DEBUG -- : q:{:question_id=>"1567146", :original_poster=>"rc.shummiclaire"}
+D, [2026-03-08T23:48:44.463068 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.463075 #4167] DEBUG -- : q:{:question_id=>"1567384", :original_poster=>"asmwent"}
+D, [2026-03-08T23:48:44.463101 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.463108 #4167] DEBUG -- : q:{:question_id=>"1567402", :original_poster=>"dario_gabrielli64"}
+D, [2026-03-08T23:48:44.463134 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.463141 #4167] DEBUG -- : q:{:question_id=>"1567409", :original_poster=>"stephen.davies54"}
+D, [2026-03-08T23:48:44.463167 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.463174 #4167] DEBUG -- : q:{:question_id=>"1567870", :original_poster=>"daniel89"}
+D, [2026-03-08T23:48:44.463203 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.463210 #4167] DEBUG -- : q:{:question_id=>"1567985", :original_poster=>"anu844228"}
+D, [2026-03-08T23:48:44.463236 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.463243 #4167] DEBUG -- : q:{:question_id=>"1568134", :original_poster=>"miworei"}
+D, [2026-03-08T23:48:44.463269 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.463275 #4167] DEBUG -- : q:{:question_id=>"1568157", :original_poster=>"Samuel"}
+D, [2026-03-08T23:48:44.463314 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.463321 #4167] DEBUG -- : q:{:question_id=>"1568168", :original_poster=>"haslinger101"}
+D, [2026-03-08T23:48:44.463348 #4167] DEBUG -- : matching_answers: []
+D, [2026-03-08T23:48:44.463354 #4167] DEBUG -- : q:{:question_id=>"1568287", :original_poster=>"GrumpyMonkey"}
+D, [2026-03-08T23:48:44.463382 #4167] DEBUG -- : matching_answers: []

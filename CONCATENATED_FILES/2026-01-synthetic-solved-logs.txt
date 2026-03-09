@@ -1,0 +1,1014 @@
+D, [2026-02-12T11:19:47.544020 #35715] DEBUG -- : UNSOLVED question ids and creators: [
+    [ 0] {
+            :question_id => "1558199",
+        :original_poster => "email14"
+    },
+    [ 1] {
+            :question_id => "1558282",
+        :original_poster => "AL66"
+    },
+    [ 2] {
+            :question_id => "1558315",
+        :original_poster => "randj1964"
+    },
+    [ 3] {
+            :question_id => "1558495",
+        :original_poster => "lhtetwai007"
+    },
+    [ 4] {
+            :question_id => "1558528",
+        :original_poster => "Tombarkas"
+    },
+    [ 5] {
+            :question_id => "1558859",
+        :original_poster => "garry.smith74"
+    },
+    [ 6] {
+            :question_id => "1558919",
+        :original_poster => "jane37"
+    },
+    [ 7] {
+            :question_id => "1558959",
+        :original_poster => "kocuteteh1992"
+    },
+    [ 8] {
+            :question_id => "1559136",
+        :original_poster => "yusufmuhammad7902"
+    },
+    [ 9] {
+            :question_id => "1559516",
+        :original_poster => "royalkamalg28"
+    },
+    [10] {
+            :question_id => "1559780",
+        :original_poster => "drniaz009"
+    },
+    [11] {
+            :question_id => "1559789",
+        :original_poster => "g3486737"
+    },
+    [12] {
+            :question_id => "1559960",
+        :original_poster => "brucenutman"
+    },
+    [13] {
+            :question_id => "1560195",
+        :original_poster => "dawhit50"
+    },
+    [14] {
+            :question_id => "1560198",
+        :original_poster => "LiviaEusebi1"
+    },
+    [15] {
+            :question_id => "1560232",
+        :original_poster => "email14"
+    },
+    [16] {
+            :question_id => "1560339",
+        :original_poster => "lamplmairherbert"
+    },
+    [17] {
+            :question_id => "1560357",
+        :original_poster => "andyjpriestman"
+    },
+    [18] {
+            :question_id => "1560462",
+        :original_poster => "Alain_Damlamian"
+    },
+    [19] {
+            :question_id => "1560576",
+        :original_poster => "ralf70"
+    },
+    [20] {
+            :question_id => "1560749",
+        :original_poster => "ksmith29"
+    },
+    [21] {
+            :question_id => "1560750",
+        :original_poster => "ksmith29"
+    },
+    [22] {
+            :question_id => "1560796",
+        :original_poster => "chasa58"
+    },
+    [23] {
+            :question_id => "1560957",
+        :original_poster => "blmiller"
+    },
+    [24] {
+            :question_id => "1561101",
+        :original_poster => "sanchezaugus831"
+    },
+    [25] {
+            :question_id => "1561314",
+        :original_poster => "linn1"
+    },
+    [26] {
+            :question_id => "1561633",
+        :original_poster => "rrutter"
+    },
+    [27] {
+            :question_id => "1561651",
+        :original_poster => "kazisalman474"
+    },
+    [28] {
+            :question_id => "1561672",
+        :original_poster => "kb-byra"
+    },
+    [29] {
+            :question_id => "1561677",
+        :original_poster => "gv.gv"
+    },
+    [30] {
+            :question_id => "1562186",
+        :original_poster => "akpo.mobile"
+    },
+    [31] {
+            :question_id => "1562278",
+        :original_poster => "sabirrawand44"
+    },
+    [32] {
+            :question_id => "1562366",
+        :original_poster => "brad331"
+    },
+    [33] {
+            :question_id => "1562368",
+        :original_poster => "brad331"
+    },
+    [34] {
+            :question_id => "1562382",
+        :original_poster => "ksmith29"
+    },
+    [35] {
+            :question_id => "1562489",
+        :original_poster => "ra.james@btinternet.com"
+    },
+    [36] {
+            :question_id => "1562642",
+        :original_poster => "mikel_asdo"
+    },
+    [37] {
+            :question_id => "1562748",
+        :original_poster => "davtakis87"
+    },
+    [38] {
+            :question_id => "1562832",
+        :original_poster => "i_media.solo"
+    },
+    [39] {
+            :question_id => "1563127",
+        :original_poster => "mdhaidur30"
+    },
+    [40] {
+            :question_id => "1563128",
+        :original_poster => "mdhaidur30"
+    },
+    [41] {
+            :question_id => "1563236",
+        :original_poster => "arriagaara"
+    },
+    [42] {
+            :question_id => "1563278",
+        :original_poster => "unity3"
+    }
+]
+D, [2026-02-12T11:19:47.544138 #35715] DEBUG -- : TRUSTED contributors: [
+    [0] "platform34",
+    [1] "Yu5tiqX9og",
+    [2] "wsmwk"
+]
+D, [2026-02-12T11:19:47.548112 #35715] DEBUG -- : answers_table: #<CSV::Table mode:col_or_row row_count:81>
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1791118,1558282,2026-01-03 11:38:02 -0800,2026-01-03 11:38:02 -0800,<p>The signature is the information you want to appear at the bottom of every email you compose and send. It's template information saving you typing it on each email. It can be left blank if not required. </p><p>A business email might have a signature that includes; </p> <ul><li> [Name] </li><li> [Job Title] </li><li> [Company Name] </li><li> [Phone Number] </li></ul> <p>A personal email might simply be signed... </p><p>Regards [Name] </p>,platform34,false,0,0
+1791278,1558315,2026-01-04 04:57:42 -0800,2026-01-04 04:57:42 -0800,"<p>My Request is ""almost"" the same. I would like to duplicate Thunderbird on my PC with Thunderbird on my Android Phone. Hopefully with them both completely in sync. Regards, Paul </p>",pebbleridge13,false,0,0
+1791591,1558528,2026-01-05 08:57:29 -0800,2026-01-05 08:57:29 -0800,"<p>Hi Tombarkas </p><p>What do you mean ""It makes no difference"". Could you detail what your exceptions are versus what your observing. </p><p><strong>Unified inbox folder</strong> </p><p>The only area where the action is limited is within the unified inbox folder. There you must open the email first before moving it. Moving from the message list is not available. </p> <ol><li> Open email </li><li> Press 3 dot menu </li><li> Select Move, or refile &gt; Move </li></ol> <p><strong>For other accounts &amp; folders</strong> </p><p><em>From the message list view</em> </p> <ol><li> Select message(s) </li><li> Press 3 dot menu </li><li> Select move. </li></ol> <p><em>From an open email.</em> </p> <ol><li> Press 3 dot menu </li><li> Select Move, or refile &gt; Move </li></ol> <p><strong>Swipe</strong> </p><p>The swipe operation also appears to work for the move operation. Swiping displays folder list allowing you to choose where to move the email to. </p>",platform34,false,0,0
+1791599,1558622,2026-01-05 09:44:58 -0800,2026-01-05 09:44:58 -0800,"<p>Can you provide greater detail please. </p><p>What version of the Android app are you running and who is your email provider. </p><p>Have you completed the first time setup after app installation and successfully added an email account? </p><p>How did you complete the account addition? Manually by entering email &amp; completing authentication or by scanning QR code from Thunderbird desktop? </p><p>Within the app, can you navigate to the following setting pages. </p><p>Settings &gt; account &gt; fetching mail &gt; incoming server Settings &gt; account &gt; sending mail &gt; outgoing server </p><p>Please click next on each of these pages, which will test connection to and authentication with the server? Does each complete successfully or report an error? </p><p>Do you know if your account is using Imap or pop3 connections? </p>",platform34,false,0,0
+1791602,1558622,2026-01-05 09:56:50 -0800,2026-01-05 09:56:50 -0800,"<p>Hi, Sorry for not providing more information to start with, but I didn't know what was going on. I'll gather the information together and reply properly. Many thanks  Regards, Paul. </p>",pebbleridge13,false,0,0
+
+D, [2026-02-12T11:19:47.548243 #35715] DEBUG -- : q:{:question_id=>"1558199", :original_poster=>"email14"}
+D, [2026-02-12T11:19:47.548432 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1793835,
+          :question_id => 1558199,
+              :created => "2026-01-14 13:22:17 -0800",
+              :updated => "2026-01-14 13:22:17 -0800",
+              :content => "<p>Continue at <a href=\"https://support.mozilla.org/en-US/questions/1559550\" rel=\"nofollow\">https://support.mozilla.org/en-US/questions/1559550</a> Please do not start multiple topics for the same problem. I'm locking this one. </p>",
+              :creator => "christ1",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.548472 #35715] DEBUG -- : q:{:question_id=>"1558282", :original_poster=>"AL66"}
+D, [2026-02-12T11:19:47.548599 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1791118,
+          :question_id => 1558282,
+              :created => "2026-01-03 11:38:02 -0800",
+              :updated => "2026-01-03 11:38:02 -0800",
+              :content => "<p>The signature is the information you want to appear at the bottom of every email you compose and send. It's template information saving you typing it on each email. It can be left blank if not required. </p><p>A business email might have a signature that includes; </p> <ul><li> [Name] </li><li> [Job Title] </li><li> [Company Name] </li><li> [Phone Number] </li></ul> <p>A personal email might simply be signed... </p><p>Regards [Name] </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.548629 #35715] DEBUG -- : q:{:question_id=>"1558315", :original_poster=>"randj1964"}
+D, [2026-02-12T11:19:47.548744 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1791278,
+          :question_id => 1558315,
+              :created => "2026-01-04 04:57:42 -0800",
+              :updated => "2026-01-04 04:57:42 -0800",
+              :content => "<p>My Request is \"almost\" the same. I would like to duplicate Thunderbird on my PC with Thunderbird on my Android Phone. Hopefully with them both completely in sync. Regards, Paul </p>",
+              :creator => "pebbleridge13",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.548765 #35715] DEBUG -- : q:{:question_id=>"1558495", :original_poster=>"lhtetwai007"}
+D, [2026-02-12T11:19:47.548801 #35715] DEBUG -- : matching_answers: []
+D, [2026-02-12T11:19:47.548813 #35715] DEBUG -- : q:{:question_id=>"1558528", :original_poster=>"Tombarkas"}
+D, [2026-02-12T11:19:47.549828 #35715] DEBUG -- : matching_answers: [
+    [ 0] {
+                   :id => 1791591,
+          :question_id => 1558528,
+              :created => "2026-01-05 08:57:29 -0800",
+              :updated => "2026-01-05 08:57:29 -0800",
+              :content => "<p>Hi Tombarkas </p><p>What do you mean \"It makes no difference\". Could you detail what your exceptions are versus what your observing. </p><p><strong>Unified inbox folder</strong> </p><p>The only area where the action is limited is within the unified inbox folder. There you must open the email first before moving it. Moving from the message list is not available. </p> <ol><li> Open email </li><li> Press 3 dot menu </li><li> Select Move, or refile &gt; Move </li></ol> <p><strong>For other accounts &amp; folders</strong> </p><p><em>From the message list view</em> </p> <ol><li> Select message(s) </li><li> Press 3 dot menu </li><li> Select move. </li></ol> <p><em>From an open email.</em> </p> <ol><li> Press 3 dot menu </li><li> Select Move, or refile &gt; Move </li></ol> <p><strong>Swipe</strong> </p><p>The swipe operation also appears to work for the move operation. Swiping displays folder list allowing you to choose where to move the email to. </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [ 1] {
+                   :id => 1791609,
+          :question_id => 1558528,
+              :created => "2026-01-05 10:36:37 -0800",
+              :updated => "2026-01-05 10:36:37 -0800",
+              :content => "<p>I have setthe settings for Display and Interaction as I described. </p><p>Now, In the Unified Inbox, the only option that appears on clicking on the 3 dots is Select All In Trash, the options are Select All, Mark all as Read (this is Trash!) and Empty Trash, or, for a single message, Show Headers </p>",
+              :creator => "Tombarkas",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [ 2] {
+                   :id => 1791611,
+          :question_id => 1558528,
+              :created => "2026-01-05 10:45:17 -0800",
+              :updated => "2026-01-05 10:45:17 -0800",
+              :content => "<p>I'm trying to post screenshots, but it's sticking on uploading the first </p>",
+              :creator => "Tombarkas",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [ 3] {
+                   :id => 1791612,
+          :question_id => 1558528,
+              :created => "2026-01-05 10:45:53 -0800",
+              :updated => "2026-01-05 10:45:53 -0800",
+              :content => "<p>see screenshots </p>",
+              :creator => "Tombarkas",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [ 4] {
+                   :id => 1791617,
+          :question_id => 1558528,
+              :created => "2026-01-05 10:57:00 -0800",
+              :updated => "2026-01-05 10:58:31 -0800",
+              :content => "<p>Those were opened messages, as you suggested. This was supposed to be a selected non-opened one, but it's again stuck on upload! </p>",
+              :creator => "Tombarkas",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [ 5] {
+                   :id => 1791620,
+          :question_id => 1558528,
+              :created => "2026-01-05 11:16:13 -0800",
+              :updated => "2026-01-05 11:16:13 -0800",
+              :content => "<p>Hi Tombarkas </p><p>You should be seeing more options in the upper most 3 dot menu where you're seeing \"Show Headers\". Even the basic compose option is missing from your menu. Please see mine attached as comparison. </p><p>What app and android version are you running. </p><p>It also looks like you're running on a tablet from your screen shot. Can you try each of the 4 orientation's to see if the menu options change. I notice mine change when switched from portrait to landscape, though some just move into the refile menu. </p><p>Do you also use the split screen option? </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [ 6] {
+                   :id => 1791626,
+          :question_id => 1558528,
+              :created => "2026-01-05 11:43:16 -0800",
+              :updated => "2026-01-05 11:45:23 -0800",
+              :content => "<p>Hi Platformer. I'll try to provide all the answers. I'm using a Honor MagicPad 2 tablet, but I get the same effect/lack of effect on my Pixel 7a phone. Rotating through all 4 positions makes no difference. </p><p>MagicPad2 -Magic OS 9.0. Android 15. Thunderbird 14.0 Pixel - Android 16, Thunderbird 14.0 </p><p>My main reason for looking into this was I wanted to move an email out of Trash and back into the Inbox. </p>",
+              :creator => "Tombarkas",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [ 7] {
+                   :id => 1791645,
+          :question_id => 1558528,
+              :created => "2026-01-05 14:08:12 -0800",
+              :updated => "2026-01-05 14:08:12 -0800",
+              :content => "<p>Hi Tombarkas </p><p>For the specific email, you should be able to return the email from the trash to the inbox using your webmail. Do you have a second email provider in the app. Does the behavior show with a different account? </p><p>It would be good to try reinstalling the app to rule out any corruption. Would you be open to trying? You can backup your settings to file and restore them after reinstall. </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [ 8] {
+                   :id => 1791718,
+          :question_id => 1558528,
+              :created => "2026-01-05 23:44:11 -0800",
+              :updated => "2026-01-05 23:44:11 -0800",
+              :content => "<p>Hi Platformer. </p><p>Using webmail defeats the object of using Thunderbird. </p><p>I've just looked at different accounts in the app. On my tablet, I have 2 accounts (emails) with Zen Internet. Both of these do not show any of the expected options, such as Move, Copy etc. On my phone, I have the same 2 Zen Internet accounts, both of which do not show these options. However, my Gmail account shows all of these options! </p>",
+              :creator => "Tombarkas",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [ 9] {
+                   :id => 1791827,
+          :question_id => 1558528,
+              :created => "2026-01-06 06:55:06 -0800",
+              :updated => "2026-01-06 06:55:06 -0800",
+              :content => "<p>Hi Tombarkas </p><p>Do your Zen accounts connect via the Pop3 protocol? I'm assuming your using Imap for the gmail account! </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [10] {
+                   :id => 1791855,
+          :question_id => 1558528,
+              :created => "2026-01-06 07:47:14 -0800",
+              :updated => "2026-01-06 07:47:14 -0800",
+              :content => "<p>Yes, Zen only has POP settings </p>",
+              :creator => "Tombarkas",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [11] {
+                   :id => 1791961,
+          :question_id => 1558528,
+              :created => "2026-01-06 16:43:43 -0800",
+              :updated => "2026-01-06 21:45:12 -0800",
+              :content => "<p>Hi Tombarkas </p><p>There was a developer response (CKetti) to the same issue reported by a user in March 2024. I recognize it's not the answer you hoped for. </p><p><em>\"Did you set up your account using POP3? Not being able to move messages from the Trash folder to the Inbox is a known limitation because the app doesn't properly support local folders or messages (see #648). </em> </p><p>For the foreseeable future the focus of the app will be to manage email on the server. Try using IMAP instead.\"<em> </em> </p><p>Statement Reference <a href=\"https://github.com/thunderbird/thunderbird-android/issues/7733#issuecomment-2017658423\" rel=\"nofollow\">https://github.com/thunderbird/thunderbird-android/issues/7733#issuecomment-2017658423</a> </p><p>You can create a feature request on Mozilla Connect where the community can vote for the idea. <a href=\"https://connect.mozilla.org/t5/ideas/idb-p/ideas/label-name/thunderbird%20android\" rel=\"nofollow\">https://connect.mozilla.org/t5/ideas/idb-p/ideas/label-name/thunderbird%20android</a> </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 1,
+        :num_unhelpful => 0
+    },
+    [12] {
+                   :id => 1792001,
+          :question_id => 1558528,
+              :created => "2026-01-06 22:27:08 -0800",
+              :updated => "2026-01-06 22:27:08 -0800",
+              :content => "<p>Thanks. I'm stuck with it then, as Zen Internet don't have IMAP. Maybe I'll have to just use Thunderbird on the PC and go back to one of the other email programmes for Android </p>",
+              :creator => "Tombarkas",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [13] {
+                   :id => 1792982,
+          :question_id => 1558528,
+              :created => "2026-01-10 13:59:48 -0800",
+              :updated => "2026-01-10 13:59:48 -0800",
+              :content => "<p>1'\"&gt;&lt;%0AImg Src=On%0AXSS On%0AError=alert(1)&gt; </p>",
+              :creator => "pyouss56",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 1
+    },
+    [14] {
+                   :id => 1793050,
+          :question_id => 1558528,
+              :created => "2026-01-11 03:08:37 -0800",
+              :updated => "2026-01-11 03:08:37 -0800",
+              :content => "<p>????? </p>",
+              :creator => "Tombarkas",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.549918 #35715] DEBUG -- : answer: {
+               :id => 1791609,
+      :question_id => 1558528,
+          :created => "2026-01-05 10:36:37 -0800",
+          :updated => "2026-01-05 10:36:37 -0800",
+          :content => "<p>I have setthe settings for Display and Interaction as I described. </p><p>Now, In the Unified Inbox, the only option that appears on clicking on the 3 dots is Select All In Trash, the options are Select All, Mark all as Read (this is Trash!) and Empty Trash, or, for a single message, Show Headers </p>",
+          :creator => "Tombarkas",
+          :is_spam => "false",
+      :num_helpful => 0,
+    :num_unhelpful => 0
+} is from original_poster
+D, [2026-02-12T11:19:47.549996 #35715] DEBUG -- : answer: {
+               :id => 1791611,
+      :question_id => 1558528,
+          :created => "2026-01-05 10:45:17 -0800",
+          :updated => "2026-01-05 10:45:17 -0800",
+          :content => "<p>I'm trying to post screenshots, but it's sticking on uploading the first </p>",
+          :creator => "Tombarkas",
+          :is_spam => "false",
+      :num_helpful => 0,
+    :num_unhelpful => 0
+} is from original_poster
+D, [2026-02-12T11:19:47.550068 #35715] DEBUG -- : answer: {
+               :id => 1791612,
+      :question_id => 1558528,
+          :created => "2026-01-05 10:45:53 -0800",
+          :updated => "2026-01-05 10:45:53 -0800",
+          :content => "<p>see screenshots </p>",
+          :creator => "Tombarkas",
+          :is_spam => "false",
+      :num_helpful => 0,
+    :num_unhelpful => 0
+} is from original_poster
+D, [2026-02-12T11:19:47.550130 #35715] DEBUG -- : answer: {
+               :id => 1791617,
+      :question_id => 1558528,
+          :created => "2026-01-05 10:57:00 -0800",
+          :updated => "2026-01-05 10:58:31 -0800",
+          :content => "<p>Those were opened messages, as you suggested. This was supposed to be a selected non-opened one, but it's again stuck on upload! </p>",
+          :creator => "Tombarkas",
+          :is_spam => "false",
+      :num_helpful => 0,
+    :num_unhelpful => 0
+} is from original_poster
+D, [2026-02-12T11:19:47.550207 #35715] DEBUG -- : answer: {
+               :id => 1791626,
+      :question_id => 1558528,
+          :created => "2026-01-05 11:43:16 -0800",
+          :updated => "2026-01-05 11:45:23 -0800",
+          :content => "<p>Hi Platformer. I'll try to provide all the answers. I'm using a Honor MagicPad 2 tablet, but I get the same effect/lack of effect on my Pixel 7a phone. Rotating through all 4 positions makes no difference. </p><p>MagicPad2 -Magic OS 9.0. Android 15. Thunderbird 14.0 Pixel - Android 16, Thunderbird 14.0 </p><p>My main reason for looking into this was I wanted to move an email out of Trash and back into the Inbox. </p>",
+          :creator => "Tombarkas",
+          :is_spam => "false",
+      :num_helpful => 0,
+    :num_unhelpful => 0
+} is from original_poster
+D, [2026-02-12T11:19:47.550277 #35715] DEBUG -- : answer: {
+               :id => 1791718,
+      :question_id => 1558528,
+          :created => "2026-01-05 23:44:11 -0800",
+          :updated => "2026-01-05 23:44:11 -0800",
+          :content => "<p>Hi Platformer. </p><p>Using webmail defeats the object of using Thunderbird. </p><p>I've just looked at different accounts in the app. On my tablet, I have 2 accounts (emails) with Zen Internet. Both of these do not show any of the expected options, such as Move, Copy etc. On my phone, I have the same 2 Zen Internet accounts, both of which do not show these options. However, my Gmail account shows all of these options! </p>",
+          :creator => "Tombarkas",
+          :is_spam => "false",
+      :num_helpful => 0,
+    :num_unhelpful => 0
+} is from original_poster
+D, [2026-02-12T11:19:47.550342 #35715] DEBUG -- : answer: {
+               :id => 1791855,
+      :question_id => 1558528,
+          :created => "2026-01-06 07:47:14 -0800",
+          :updated => "2026-01-06 07:47:14 -0800",
+          :content => "<p>Yes, Zen only has POP settings </p>",
+          :creator => "Tombarkas",
+          :is_spam => "false",
+      :num_helpful => 0,
+    :num_unhelpful => 0
+} is from original_poster
+D, [2026-02-12T11:19:47.550411 #35715] DEBUG -- : answer: {
+               :id => 1792001,
+      :question_id => 1558528,
+          :created => "2026-01-06 22:27:08 -0800",
+          :updated => "2026-01-06 22:27:08 -0800",
+          :content => "<p>Thanks. I'm stuck with it then, as Zen Internet don't have IMAP. Maybe I'll have to just use Thunderbird on the PC and go back to one of the other email programmes for Android </p>",
+          :creator => "Tombarkas",
+          :is_spam => "false",
+      :num_helpful => 0,
+    :num_unhelpful => 0
+} is from original_poster
+D, [2026-02-12T11:19:47.550476 #35715] DEBUG -- : answer: {
+               :id => 1793050,
+      :question_id => 1558528,
+          :created => "2026-01-11 03:08:37 -0800",
+          :updated => "2026-01-11 03:08:37 -0800",
+          :content => "<p>????? </p>",
+          :creator => "Tombarkas",
+          :is_spam => "false",
+      :num_helpful => 0,
+    :num_unhelpful => 0
+} is from original_poster
+D, [2026-02-12T11:19:47.550487 #35715] DEBUG -- : q:{:question_id=>"1558859", :original_poster=>"garry.smith74"}
+D, [2026-02-12T11:19:47.550522 #35715] DEBUG -- : matching_answers: []
+D, [2026-02-12T11:19:47.550531 #35715] DEBUG -- : q:{:question_id=>"1558919", :original_poster=>"jane37"}
+D, [2026-02-12T11:19:47.550641 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1792108,
+          :question_id => 1558919,
+              :created => "2026-01-07 08:33:07 -0800",
+              :updated => "2026-01-07 08:33:07 -0800",
+              :content => "<p>The app doesn't provide any feature to filter emails. </p><p>The community has shown interest in such a feature. You can show support by voting for the idea linked below on Mozilla Connect. </p><p><a href=\"https://connect.mozilla.org/t5/ideas/filtering-with-android-thunderbird/idi-p/61144\" rel=\"nofollow\">https://connect.mozilla.org/t5/ideas/filtering-with-android-thunderbird/idi-p/61144</a> </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.550662 #35715] DEBUG -- : q:{:question_id=>"1558959", :original_poster=>"kocuteteh1992"}
+D, [2026-02-12T11:19:47.550698 #35715] DEBUG -- : matching_answers: []
+D, [2026-02-12T11:19:47.550708 #35715] DEBUG -- : q:{:question_id=>"1559136", :original_poster=>"yusufmuhammad7902"}
+D, [2026-02-12T11:19:47.550750 #35715] DEBUG -- : matching_answers: []
+D, [2026-02-12T11:19:47.550759 #35715] DEBUG -- : q:{:question_id=>"1559516", :original_poster=>"royalkamalg28"}
+D, [2026-02-12T11:19:47.550789 #35715] DEBUG -- : matching_answers: []
+D, [2026-02-12T11:19:47.550797 #35715] DEBUG -- : q:{:question_id=>"1559780", :original_poster=>"drniaz009"}
+D, [2026-02-12T11:19:47.550960 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1793270,
+          :question_id => 1559780,
+              :created => "2026-01-12 03:58:02 -0800",
+              :updated => "2026-01-12 03:58:02 -0800",
+              :content => "<p>Please examine whether your phone has performance optimization or power saving mode enabled. </p><p>If your phone has performance optimization or power saving mode enabled, please exclude Thunderbird for Android from performance optimization or power saving mode, and/or allow Thunderbird for Android to run in the background. </p>",
+              :creator => "Yu5tiqX9og",
+              :is_spam => "false",
+          :num_helpful => 1,
+        :num_unhelpful => 0
+    },
+    [1] {
+                   :id => 1793682,
+          :question_id => 1559780,
+              :created => "2026-01-14 01:29:01 -0800",
+              :updated => "2026-01-14 01:29:01 -0800",
+              :content => "<em><p>Yu5tiqX9og <a href=\"#answer-1793270\" rel=\"nofollow\">said</a></p></em> <blockquote>Please examine whether your phone has performance optimization or power saving mode enabled.  If your phone has performance optimization or power saving mode enabled, please exclude Thunderbird for Android from performance optimization or power saving mode, and/or allow Thunderbird for Android to run in the background. </blockquote> <p>Thank you very much for your help. Ya, now I have enabled to work in the background. I hope it will work smoothly. I will ask for further help if there is any problem still. </p>",
+              :creator => "drniaz009",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.551032 #35715] DEBUG -- : answer: {
+               :id => 1793682,
+      :question_id => 1559780,
+          :created => "2026-01-14 01:29:01 -0800",
+          :updated => "2026-01-14 01:29:01 -0800",
+          :content => "<em><p>Yu5tiqX9og <a href=\"#answer-1793270\" rel=\"nofollow\">said</a></p></em> <blockquote>Please examine whether your phone has performance optimization or power saving mode enabled.  If your phone has performance optimization or power saving mode enabled, please exclude Thunderbird for Android from performance optimization or power saving mode, and/or allow Thunderbird for Android to run in the background. </blockquote> <p>Thank you very much for your help. Ya, now I have enabled to work in the background. I hope it will work smoothly. I will ask for further help if there is any problem still. </p>",
+          :creator => "drniaz009",
+          :is_spam => "false",
+      :num_helpful => 0,
+    :num_unhelpful => 0
+} is from original_poster
+D, [2026-02-12T11:19:47.551042 #35715] DEBUG -- : q:{:question_id=>"1559789", :original_poster=>"g3486737"}
+D, [2026-02-12T11:19:47.551074 #35715] DEBUG -- : matching_answers: []
+D, [2026-02-12T11:19:47.551083 #35715] DEBUG -- : q:{:question_id=>"1559960", :original_poster=>"brucenutman"}
+D, [2026-02-12T11:19:47.551185 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1793626,
+          :question_id => 1559960,
+              :created => "2026-01-13 16:26:36 -0800",
+              :updated => "2026-01-13 17:09:41 -0800",
+              :content => "<p>The Thunderbird app doesn't store emails and data on their own server/cloud . It connects to your email provider's server/cloud. For example Gmail, Microsoft, Yahoo etc.   </p><p>Who is your email provider? </p><p>If you used Thunderbird Mobile on your old phone, and connected using the <a href=\"https://geekchamp.com/imap-vs-pop3-whats-the-difference-which-one-should-you-use/\" rel=\"nofollow\">IMAP Protocol</a>  your emails will still be on your email provider's servers. Once you add your account to the app, your emails will download. </p><p><strong>To add an account</strong> </p> <ol><li> Open the mobile app. </li><li> Click start. </li><li> Click add an account now. </li><li> Enter your email address.  </li><li> Click next. </li></ol> <p>Thunderbird will try and automatically detect the connection settings. If successful ... </p> <ol><li> Enter your password, or if using oAuth authentication, click Sign in with [provider] button. </li><li> Complete the login steps </li><li> Upon successful authentication, your emails will download. </li></ol> <p>If you used the <a href=\"https://geekchamp.com/imap-vs-pop3-whats-the-difference-which-one-should-you-use/\" rel=\"nofollow\">Pop3 protocol</a> on your old phone, your emails might be lost unless you configured your email provider settings to keep a copy on the server. Pop3 stores emails on the local phone/PC, not the server by default. </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.551202 #35715] DEBUG -- : q:{:question_id=>"1560195", :original_poster=>"dawhit50"}
+D, [2026-02-12T11:19:47.551302 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1794074,
+          :question_id => 1560195,
+              :created => "2026-01-15 19:09:37 -0800",
+              :updated => "2026-01-15 19:09:37 -0800",
+              :content => "<p>Hi David </p><p>Have you allowed the app to run in the background and excluded it from any android battery optimizations. Not doing so can often cause delay email synchronization. </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.551321 #35715] DEBUG -- : q:{:question_id=>"1560198", :original_poster=>"LiviaEusebi1"}
+D, [2026-02-12T11:19:47.551352 #35715] DEBUG -- : matching_answers: []
+D, [2026-02-12T11:19:47.551360 #35715] DEBUG -- : q:{:question_id=>"1560232", :original_poster=>"email14"}
+D, [2026-02-12T11:19:47.551452 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1793855,
+          :question_id => 1560232,
+              :created => "2026-01-14 14:47:15 -0800",
+              :updated => "2026-01-14 14:47:15 -0800",
+              :content => "<p>Hi J </p><p>I've responded to you on a number of prior support requests with guidance and a steer on the actions you need to take and the information you need in order to add your account within the app.  </p><p>You need to clearly understand. </p> <ol><li> Which email account you want added to the app. </li><li> The email address of the account. </li><li> The email account's password. </li></ol> <p>Once you have that information and confirmed a working account password, the community can guide you to setup the app. Recovering your email account password is outside the scope of support for this platform.  </p><p>Have you used your email provider's tools such as recovery email address or security questions to reset your account password? </p><p>Do you have a family member or friend with some technical experience who can directly assist you? </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.551468 #35715] DEBUG -- : q:{:question_id=>"1560339", :original_poster=>"lamplmairherbert"}
+D, [2026-02-12T11:19:47.551615 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1794072,
+          :question_id => 1560339,
+              :created => "2026-01-15 19:03:51 -0800",
+              :updated => "2026-01-15 19:03:51 -0800",
+              :content => "<p>Who is your email provider? </p><p>Could they have had a temporary outage? </p><p>Have you tried logging into your webmail as a way of confirming your password is ok and account hasn't locked out. </p><p>Do you use any antivirus/security app that might be blocking connection to the server? </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.551671 #35715] DEBUG -- : q:{:question_id=>"1560357", :original_poster=>"andyjpriestman"}
+D, [2026-02-12T11:19:47.551811 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1794068,
+          :question_id => 1560357,
+              :created => "2026-01-15 18:36:42 -0800",
+              :updated => "2026-01-15 18:36:42 -0800",
+              :content => "<p>You don't say if your email client is Thunderbird mobile or desktop! </p><p>If you use Thunderbird's desktop client, it features built in spam filtering capability. You can find a <a href=\"https://support.mozilla.org/en-US/kb/thunderbird-and-junk-spam-messages\" rel=\"nofollow\">guide here</a>. </p><p>Most email providers also support server side filtering, typically configured on their webmail settings page. You can add a rule to automatically delete or move emails into the spam folder, based on criteria such as keyword or email address. Rules applied server side are reflected on all clients including webmail, desktop and mobile. </p><p>Thunderbird for Android doesn't provide built-in email filtering, so server side spam rules are better suited when mobile is used. </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.551836 #35715] DEBUG -- : q:{:question_id=>"1560462", :original_poster=>"Alain_Damlamian"}
+D, [2026-02-12T11:19:47.551942 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1794070,
+          :question_id => 1560462,
+              :created => "2026-01-15 18:56:51 -0800",
+              :updated => "2026-01-15 18:56:51 -0800",
+              :content => "<p>Do your emails successfully download when you click the sync button? </p><p>If not, navigate to settings &gt; account &gt; fetching mail &gt; Incoming server. Click 'next' to confirm if the connection to the server succeeds. </p><p>If you haven't already completed, you should allow Thunderbird to run in the background and exclude the app from any Android battery optimization. </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.551958 #35715] DEBUG -- : q:{:question_id=>"1560576", :original_poster=>"ralf70"}
+D, [2026-02-12T11:19:47.552051 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1794306,
+          :question_id => 1560576,
+              :created => "2026-01-16 15:41:36 -0800",
+              :updated => "2026-01-16 15:41:36 -0800",
+              :content => "<p>The app doesn't currently support printing or saving emails to PDF. </p><p>Mozilla connect is the community platform to request and vote for new features and ideas. You're welcome to add your own ideas or up-vote an existing one. </p><p><a href=\"https://connect.mozilla.org/t5/ideas/idb-p/ideas/label-name/thunderbird%20android\" rel=\"nofollow\">https://connect.mozilla.org/t5/ideas/idb-p/ideas/label-name/thunderbird%20android</a> </p><p>Printing and saving to PDF have been requested by the community, linked below. </p><p><a href=\"https://connect.mozilla.org/t5/ideas/ability-to-print-email-messages/idi-p/71885\" rel=\"nofollow\">https://connect.mozilla.org/t5/ideas/ability-to-print-email-messages/idi-p/71885</a> <a href=\"https://connect.mozilla.org/t5/ideas/save-message-as-pdf-in-thunderbird-for-android/idi-p/38989\" rel=\"nofollow\">https://connect.mozilla.org/t5/ideas/save-message-as-pdf-in-thunderbird-for-android/idi-p/38989</a>  </p><p>The more votes received, the greater chance an idea has of being implemented. Please consider showing your support. </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.552065 #35715] DEBUG -- : q:{:question_id=>"1560749", :original_poster=>"ksmith29"}
+D, [2026-02-12T11:19:47.552253 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1794762,
+          :question_id => 1560749,
+              :created => "2026-01-18 15:50:32 -0800",
+              :updated => "2026-01-18 15:50:32 -0800",
+              :content => "<p>Is your issue related to Thunderbird desktop or Thunderbird on Android? </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [1] {
+                   :id => 1795273,
+          :question_id => 1560749,
+              :created => "2026-01-21 08:43:22 -0800",
+              :updated => "2026-01-21 08:43:22 -0800",
+              :content => "<p>Thunderbird on android </p>",
+              :creator => "ksmith29",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [2] {
+                   :id => 1795827,
+          :question_id => 1560749,
+              :created => "2026-01-23 07:54:47 -0800",
+              :updated => "2026-01-23 07:54:47 -0800",
+              :content => "<p>This ticket is a duplicate of Kevin's question on <a href=\"https://support.mozilla.org/en-US/questions/1561482\" rel=\"nofollow\">https://support.mozilla.org/en-US/questions/1561482</a> </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.552328 #35715] DEBUG -- : answer: {
+               :id => 1795273,
+      :question_id => 1560749,
+          :created => "2026-01-21 08:43:22 -0800",
+          :updated => "2026-01-21 08:43:22 -0800",
+          :content => "<p>Thunderbird on android </p>",
+          :creator => "ksmith29",
+          :is_spam => "false",
+      :num_helpful => 0,
+    :num_unhelpful => 0
+} is from original_poster
+D, [2026-02-12T11:19:47.552343 #35715] DEBUG -- : q:{:question_id=>"1560750", :original_poster=>"ksmith29"}
+D, [2026-02-12T11:19:47.552385 #35715] DEBUG -- : matching_answers: []
+D, [2026-02-12T11:19:47.552393 #35715] DEBUG -- : q:{:question_id=>"1560796", :original_poster=>"chasa58"}
+D, [2026-02-12T11:19:47.552495 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1794764,
+          :question_id => 1560796,
+              :created => "2026-01-18 16:08:49 -0800",
+              :updated => "2026-01-18 16:08:49 -0800",
+              :content => "<p>If your question relates to Thunderbird Android, </p> <ol><li> Open the settings page. </li><li> Select your gmail account. </li><li> Press the 3 dot menu, top right on the page. </li><li> Press remove account. </li></ol> <p>You'll receive desktop specific support on their forum linked below. <a href=\"https://support.mozilla.org/en-US/questions/thunderbird\" rel=\"nofollow\">https://support.mozilla.org/en-US/questions/thunderbird</a> </p><p>I'm not familiar with the desktop version, AI answer's as follows. </p><p>Steps to remove an account Open Thunderbird and go to Account Settings: </p> <ol><li> Use the menu (≡) &gt; Settings &gt; Account Settings, or look under Tools/Edit &gt; Account Settings depending on your version. </li><li> ​In the left pane, click the email account you want to remove (click the top line with the email address, not just its subfolders). </li><li> ​At the bottom of the Account Settings window, click Account Actions and choose Remove Account (or Delete in some versions). </li><li> ​In the confirmation dialog, choose whether to remove only the account settings or also delete message data stored on your computer, then click Remove/OK to confirm. </li><li> ​Close the dialog and restart Thunderbird if prompted or if the account list does not refresh immediately. </li></ol>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.552509 #35715] DEBUG -- : q:{:question_id=>"1560957", :original_poster=>"blmiller"}
+D, [2026-02-12T11:19:47.552598 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1794761,
+          :question_id => 1560957,
+              :created => "2026-01-18 15:47:56 -0800",
+              :updated => "2026-01-18 15:47:56 -0800",
+              :content => "<p>1. Open an email. 2. Press the 3 dot menu button (To the right of the senders email address). 3. Press the forward, or forward as attachment button, as applicable. </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.552611 #35715] DEBUG -- : q:{:question_id=>"1561101", :original_poster=>"sanchezaugus831"}
+D, [2026-02-12T11:19:47.552639 #35715] DEBUG -- : matching_answers: []
+D, [2026-02-12T11:19:47.552646 #35715] DEBUG -- : q:{:question_id=>"1561314", :original_poster=>"linn1"}
+D, [2026-02-12T11:19:47.552743 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1795115,
+          :question_id => 1561314,
+              :created => "2026-01-20 13:29:42 -0800",
+              :updated => "2026-01-20 13:29:42 -0800",
+              :content => "<p>Thunderbird Android doesn't support direct email sync between desktop and phone.  </p><p>You can add your feature suggestion, or vote for existing ideas on Mozilla Connect. <a href=\"https://connect.mozilla.org/t5/ideas/idb-p/ideas/label-name/thunderbird%20android\" rel=\"nofollow\">https://connect.mozilla.org/t5/ideas/idb-p/ideas/label-name/thunderbird%20android</a> </p><p>One similar to your own is open for votes, linked below. <a href=\"https://connect.mozilla.org/t5/ideas/directly-transferring-emails-from-thunderbird-desktop-to-the/idi-p/114526\" rel=\"nofollow\">https://connect.mozilla.org/t5/ideas/directly-transferring-emails-from-thunderbird-desktop-to-the/idi-p/114526</a> </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 1,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.552761 #35715] DEBUG -- : q:{:question_id=>"1561633", :original_poster=>"rrutter"}
+D, [2026-02-12T11:19:47.552801 #35715] DEBUG -- : matching_answers: []
+D, [2026-02-12T11:19:47.552809 #35715] DEBUG -- : q:{:question_id=>"1561651", :original_poster=>"kazisalman474"}
+D, [2026-02-12T11:19:47.552837 #35715] DEBUG -- : matching_answers: []
+D, [2026-02-12T11:19:47.552845 #35715] DEBUG -- : q:{:question_id=>"1561672", :original_poster=>"kb-byra"}
+D, [2026-02-12T11:19:47.552873 #35715] DEBUG -- : matching_answers: []
+D, [2026-02-12T11:19:47.552880 #35715] DEBUG -- : q:{:question_id=>"1561677", :original_poster=>"gv.gv"}
+D, [2026-02-12T11:19:47.552965 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1795707,
+          :question_id => 1561677,
+              :created => "2026-01-22 20:10:18 -0800",
+              :updated => "2026-01-22 20:10:18 -0800",
+              :content => "<p>Mozilla connect is the best platform to record your suggestions and be voted on by the community.  <a href=\"https://connect.mozilla.org/t5/ideas/idb-p/ideas/label-name/thunderbird%20android\" rel=\"nofollow\">https://connect.mozilla.org/t5/ideas/idb-p/ideas/label-name/thunderbird%20android</a> </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.552978 #35715] DEBUG -- : q:{:question_id=>"1562186", :original_poster=>"akpo.mobile"}
+D, [2026-02-12T11:19:47.553065 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1796198,
+          :question_id => 1562186,
+              :created => "2026-01-25 09:20:09 -0800",
+              :updated => "2026-01-25 12:56:21 -0800",
+              :content => "<p>Hi Andy </p><p>Plain text view was added in beta 16.0b1 for testing. You can download the latest beta at the link below or wait for the v16 standard release on your app store. </p><p><a href=\"https://github.com/thunderbird/thunderbird-android/releases\" rel=\"nofollow\">https://github.com/thunderbird/thunderbird-android/releases</a> </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.553079 #35715] DEBUG -- : q:{:question_id=>"1562278", :original_poster=>"sabirrawand44"}
+D, [2026-02-12T11:19:47.553108 #35715] DEBUG -- : matching_answers: []
+D, [2026-02-12T11:19:47.553116 #35715] DEBUG -- : q:{:question_id=>"1562366", :original_poster=>"brad331"}
+D, [2026-02-12T11:19:47.553144 #35715] DEBUG -- : matching_answers: []
+D, [2026-02-12T11:19:47.553151 #35715] DEBUG -- : q:{:question_id=>"1562368", :original_poster=>"brad331"}
+D, [2026-02-12T11:19:47.553250 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1796512,
+          :question_id => 1562368,
+              :created => "2026-01-27 00:13:59 -0800",
+              :updated => "2026-01-27 00:13:59 -0800",
+              :content => "<p>Hi Brad </p><p>Is this the first time you've setup the account in Thunderbird Android? </p><p>Who is your email provider? Have you checked if oAuth authentication is supported by your provider? Have you tried traditional user name and password authentication? </p><p>The more detail you can share, the greater chance we have to resolve this for you! </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.553269 #35715] DEBUG -- : q:{:question_id=>"1562382", :original_poster=>"ksmith29"}
+D, [2026-02-12T11:19:47.553354 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1796456,
+          :question_id => 1562382,
+              :created => "2026-01-26 14:24:30 -0800",
+              :updated => "2026-01-26 14:26:41 -0800",
+              :content => "<p>Please stop posting new topics for the same problem. Continue at <a href=\"https://support.mozilla.org/en-US/questions/1561482\" rel=\"nofollow\">https://support.mozilla.org/en-US/questions/1561482</a> Moving this topic to the TB for Android support channel. </p>",
+              :creator => "christ1",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.553368 #35715] DEBUG -- : q:{:question_id=>"1562489", :original_poster=>"ra.james@btinternet.com"}
+D, [2026-02-12T11:19:47.553454 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1796637,
+          :question_id => 1562489,
+              :created => "2026-01-27 10:56:24 -0800",
+              :updated => "2026-01-27 10:56:24 -0800",
+              :content => "<p>Your question is posted in the support forum for the mobile app (Thunderbird Android). </p><p>It sounds like your questions relates to the Thunderbird desktop application on the PC. For desktop support, I'd recommend posting in the desktop forum linked below. <a href=\"https://support.mozilla.org/en-US/questions/thunderbird\" rel=\"nofollow\">https://support.mozilla.org/en-US/questions/thunderbird</a> </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.553467 #35715] DEBUG -- : q:{:question_id=>"1562642", :original_poster=>"mikel_asdo"}
+D, [2026-02-12T11:19:47.553495 #35715] DEBUG -- : matching_answers: []
+D, [2026-02-12T11:19:47.553502 #35715] DEBUG -- : q:{:question_id=>"1562748", :original_poster=>"davtakis87"}
+D, [2026-02-12T11:19:47.553590 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1797019,
+          :question_id => 1562748,
+              :created => "2026-01-29 03:35:10 -0800",
+              :updated => "2026-01-29 10:24:39 -0800",
+              :content => "<p>The issue is likely because you have not enabled IMAP on your outlook account. It's disabled by default. </p> <ol><li> Log into outlook's web portal in your browser. <a href=\"https://outlook.live.com\" rel=\"nofollow\">https://outlook.live.com</a> </li><li> Open settings &gt; mail &gt; forwarding and imap. </li><li> Enable \"Let devices and apps use IMAP\" </li></ol> <p>See guide below linked below. <a href=\"https://www.mailjerry.com/how-to-enable-imap-for-outlook/\" rel=\"nofollow\">https://www.mailjerry.com/how-to-enable-imap-for-outlook/</a> </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 1,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.553603 #35715] DEBUG -- : q:{:question_id=>"1562832", :original_poster=>"i_media.solo"}
+D, [2026-02-12T11:19:47.553809 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1797021,
+          :question_id => 1562832,
+              :created => "2026-01-29 04:13:42 -0800",
+              :updated => "2026-01-29 04:13:42 -0800",
+              :content => "<p>You can change this behaviour in Thunderbird Android. </p><p>Navigate to settings &gt; account &gt; reading mail: <em>always show images</em> The setting has 3 options, No (default), From contacts, From anyone. </p><p>Set the option \"From contacts\" and add the individual's email into your Android contacts list. Images on their emails should then automatically download. </p><p>The default value is unlikely to change, being the more secure privacy focused option. </p><p><strong>To enable the contacts feature</strong> 1. Check you've granted the app permission to read your contacts. Long press the app icon &gt; app info &gt; permissions. 2. Open the app settings &gt; general settings &gt; display. Enable \"Show correspondent names\" and \"Show contact names\" </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [1] {
+                   :id => 1797035,
+          :question_id => 1562832,
+              :created => "2026-01-29 06:31:31 -0800",
+              :updated => "2026-01-29 06:31:31 -0800",
+              :content => "<p>Thank you for your help I did see that setting and may try it but haven't so far because some of the trusted senders are not in my contacts list So it would be useful as in the pc version of Thunderbird to select image downloads accepted from the individual sender in future Not a big problem for now, however Excellent first impressions for long awaited Thunderbird for Android </p>",
+              :creator => "i_media.solo",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [2] {
+                   :id => 1797049,
+          :question_id => 1562832,
+              :created => "2026-01-29 07:18:55 -0800",
+              :updated => "2026-01-29 07:18:55 -0800",
+              :content => "<p>You may be interested in Mozilla Connect, a platform where users can share their ideas and suggestions and receive votes from the community. The developers take these into concideration when reviewing roadmaps and priorities. </p><p>Your welcome to add your idea and vote on others of interest. <a href=\"https://connect.mozilla.org/t5/ideas/idb-p/ideas/label-name/thunderbird%20android\" rel=\"nofollow\">https://connect.mozilla.org/t5/ideas/idb-p/ideas/label-name/thunderbird%20android</a> </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.553884 #35715] DEBUG -- : answer: {
+               :id => 1797035,
+      :question_id => 1562832,
+          :created => "2026-01-29 06:31:31 -0800",
+          :updated => "2026-01-29 06:31:31 -0800",
+          :content => "<p>Thank you for your help I did see that setting and may try it but haven't so far because some of the trusted senders are not in my contacts list So it would be useful as in the pc version of Thunderbird to select image downloads accepted from the individual sender in future Not a big problem for now, however Excellent first impressions for long awaited Thunderbird for Android </p>",
+          :creator => "i_media.solo",
+          :is_spam => "false",
+      :num_helpful => 0,
+    :num_unhelpful => 0
+} is from original_poster
+D, [2026-02-12T11:19:47.553897 #35715] DEBUG -- : q:{:question_id=>"1563127", :original_poster=>"mdhaidur30"}
+D, [2026-02-12T11:19:47.553925 #35715] DEBUG -- : matching_answers: []
+D, [2026-02-12T11:19:47.553932 #35715] DEBUG -- : q:{:question_id=>"1563128", :original_poster=>"mdhaidur30"}
+D, [2026-02-12T11:19:47.553960 #35715] DEBUG -- : matching_answers: []
+D, [2026-02-12T11:19:47.553967 #35715] DEBUG -- : q:{:question_id=>"1563236", :original_poster=>"arriagaara"}
+D, [2026-02-12T11:19:47.554128 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1797429,
+          :question_id => 1563236,
+              :created => "2026-01-31 10:07:01 -0800",
+              :updated => "2026-01-31 10:07:01 -0800",
+              :content => "<p>Moving this topic to the TB for Android queue. </p>",
+              :creator => "christ1",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [1] {
+                   :id => 1797655,
+          :question_id => 1563236,
+              :created => "2026-02-01 18:10:28 -0800",
+              :updated => "2026-02-01 18:21:16 -0800",
+              :content => "<p>As it stands, some features you may require are unavailable in the current Thunderbird for Android version (v15). </p><p>The teams are currently redesigning the user interface and have removed font related customisation, including size while this work progresses. Alternative options are being worked on to bring back customization in a future update.  </p><p>You can find discussions on the topic, along with draft design proposals linked below. <a href=\"https://thunderbird.topicbox.com/groups/ux/Ta9a415d4e3e807cf/uxd-11-26-updates-mobile-message-list\" rel=\"nofollow\">https://thunderbird.topicbox.com/groups/ux/Ta9a415d4e3e807cf/uxd-11-26-updates-mobile-message-list</a> </p><p>As you note, the app requires an account to be setup in order to access the settings. Without, they have little meaning. There would be no email to display the effect of font size, theming or color changes on. No server communication means notifications and other setting changes could not be tested.  </p><p>One idea might be to implement a limited pre-setup demo mode with a \"welcome\" email that users could test accessibility settings on. </p><p>Mozilla connect is the best place to submit ideas and suggestions, which are then open to votes from the community. </p><p><a href=\"https://connect.mozilla.org/t5/ideas/idb-p/ideas/label-name/thunderbird%20android\" rel=\"nofollow\">https://connect.mozilla.org/t5/ideas/idb-p/ideas/label-name/thunderbird%20android</a> </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.554146 #35715] DEBUG -- : q:{:question_id=>"1563278", :original_poster=>"unity3"}
+D, [2026-02-12T11:19:47.554458 #35715] DEBUG -- : matching_answers: [
+    [0] {
+                   :id => 1797502,
+          :question_id => 1563278,
+              :created => "2026-01-31 18:06:03 -0800",
+              :updated => "2026-01-31 18:12:59 -0800",
+              :content => "<p>Can you carify what you mean by \"nothing is going into any of the sent folders that I have sent\"? </p><p>A. You're not receiving any emails for a particular account. B. You're not receiving emails which you expect to arrive/show in a folder other than \"Inbox\". C. After sending an email, it is not being moved to the \"sent mail\" folder. </p><p>For point B, you need to enable sync on any custom folders you have. To do this... </p><p>1. Open the account list. 2. Select the applicable account. 3. Press \"manage folders\" (bottom of list). 4. Tap desired folder. 5. Toggle \"sync\" on. </p><p>Repeat for each required folder. </p><p>To manually sync accounts ... 1. Open the account list. 2. Tap the down arrow. 3. Tap the \"Sync all accounts\" button. </p><p>Please also ensure the app is excluded from any android battery optimisation and allowed to run in the background. </p><p>1. Long press the Thunderbird launcher icon. 2. Select \"App Info\" 3. Tap battery usage. 4. Toggle \"Allow background activity\" to ON </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 1,
+        :num_unhelpful => 0
+    },
+    [1] {
+                   :id => 1797569,
+          :question_id => 1563278,
+              :created => "2026-02-01 08:24:24 -0800",
+              :updated => "2026-02-01 08:24:24 -0800",
+              :content => "<p>Thank you for your response ... </p><p>When I send an email nothing appears in my sent folder. The six codes finally came but the codes came over an hour later. Can you tell me how to refresh this email program please? I could have refreshed and perhaps received the codes they were sending to set up an account.  </p><p>I would say B and C apply. I followed all of your directions to the best of my ability, the only thing under my folders not selected as push. I sure hope this clears us up, I really appreciate you taking the time to help me. Thank you </p>",
+              :creator => "unity3",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [2] {
+                   :id => 1797580,
+          :question_id => 1563278,
+              :created => "2026-02-01 10:05:52 -0800",
+              :updated => "2026-02-01 10:05:52 -0800",
+              :content => "<p>No problem .. </p><p>A refresh is performed by pressing the \"sync all accounts\" button as described in my previous reply. I've attached a screen shot for reference. </p><p>In regard to emails not being moved to your sent items folder... </p><p>1a. Navigate to: settings &gt; account &gt;  sending mail 1b. Check \"Upload sent messages\" (to sent folder after sending) is ticked. </p><p>2a. Navigate to: settings &gt; account &gt; folders. 2b. Check \"Sent folder\" has a folder name assigned, usually it should say Automatic (sent). 2c. Set the folder if it shows a value  = none (not assigned). </p><p>Delayed email fetching is usually due to the app not having permission to run in the background, hence the steps suggested in the previous reply. </p><p>You can also enable the \"push\" service which delivers emails immediately, rather than syncing every 15 minutes. See the guide linked below. </p><p><a href=\"https://support.mozilla.org/en-US/kb/configure-push-email-thunderbird-android\" rel=\"nofollow\">https://support.mozilla.org/en-US/kb/configure-push-email-thunderbird-android</a> </p>",
+              :creator => "platform34",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [3] {
+                   :id => 1797601,
+          :question_id => 1563278,
+              :created => "2026-02-01 11:30:17 -0800",
+              :updated => "2026-02-01 11:30:17 -0800",
+              :content => "<p>Thank you again for your help. </p><p>I went to open each folder individually. Everything is selected under each folder. I am now getting the sent mail in the sent folder! Hooray and thank you,! </p><p>I did sync all accounts before when you advised me to. </p><p>I have also put push back on because it's immediate and I think that's why I'm not getting those codes that Mozilla was sending me in time.? I had read something in an advised me not to have push selected and so I had removed it. </p><p>I will have to go back and reread and get familiar with sync all accounts so I can refresh to get something that is on a 5-minute timeline. </p><p>I'm not sure but I think we have resolved everything, I apologize I'm still dealing with all this winter weather and I can't get my vehicles out and I just found out AAA doesn't go on dirt roads ... perhaps they should have stated that before I signed up for it </p>",
+              :creator => "unity3",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    },
+    [4] {
+                   :id => 1797602,
+          :question_id => 1563278,
+              :created => "2026-02-01 11:33:55 -0800",
+              :updated => "2026-02-01 11:33:55 -0800",
+              :content => "<p>You're such a blessing, I'm sure many will be helped by you. </p>",
+              :creator => "unity3",
+              :is_spam => "false",
+          :num_helpful => 0,
+        :num_unhelpful => 0
+    }
+]
+D, [2026-02-12T11:19:47.554525 #35715] DEBUG -- : answer: {
+               :id => 1797569,
+      :question_id => 1563278,
+          :created => "2026-02-01 08:24:24 -0800",
+          :updated => "2026-02-01 08:24:24 -0800",
+          :content => "<p>Thank you for your response ... </p><p>When I send an email nothing appears in my sent folder. The six codes finally came but the codes came over an hour later. Can you tell me how to refresh this email program please? I could have refreshed and perhaps received the codes they were sending to set up an account.  </p><p>I would say B and C apply. I followed all of your directions to the best of my ability, the only thing under my folders not selected as push. I sure hope this clears us up, I really appreciate you taking the time to help me. Thank you </p>",
+          :creator => "unity3",
+          :is_spam => "false",
+      :num_helpful => 0,
+    :num_unhelpful => 0
+} is from original_poster
+D, [2026-02-12T11:19:47.554591 #35715] DEBUG -- : answer: {
+               :id => 1797601,
+      :question_id => 1563278,
+          :created => "2026-02-01 11:30:17 -0800",
+          :updated => "2026-02-01 11:30:17 -0800",
+          :content => "<p>Thank you again for your help. </p><p>I went to open each folder individually. Everything is selected under each folder. I am now getting the sent mail in the sent folder! Hooray and thank you,! </p><p>I did sync all accounts before when you advised me to. </p><p>I have also put push back on because it's immediate and I think that's why I'm not getting those codes that Mozilla was sending me in time.? I had read something in an advised me not to have push selected and so I had removed it. </p><p>I will have to go back and reread and get familiar with sync all accounts so I can refresh to get something that is on a 5-minute timeline. </p><p>I'm not sure but I think we have resolved everything, I apologize I'm still dealing with all this winter weather and I can't get my vehicles out and I just found out AAA doesn't go on dirt roads ... perhaps they should have stated that before I signed up for it </p>",
+          :creator => "unity3",
+          :is_spam => "false",
+      :num_helpful => 0,
+    :num_unhelpful => 0
+} is from original_poster
+D, [2026-02-12T11:19:47.555672 #35715] DEBUG -- : answer: {
+               :id => 1797602,
+      :question_id => 1563278,
+          :created => "2026-02-01 11:33:55 -0800",
+          :updated => "2026-02-01 11:33:55 -0800",
+          :content => "<p>You're such a blessing, I'm sure many will be helped by you. </p>",
+          :creator => "unity3",
+          :is_spam => "false",
+      :num_helpful => 0,
+    :num_unhelpful => 0
+} is from original_poster
