@@ -61,3 +61,23 @@
    3. For each answer, checks if the answer creator is different from the question creator
    4. Filters creators with >20 total answers AND >20 answers to others' questions
    5. Sorts by total answers (descending) and prints formatted output
+
+# 2026-03-10 get all the people with more than 20 answers to questions they didn't create
+
+* prompt: `print all answer creators with more than 20 answers in CONCATENATED_FILES/2026*answers.csv who have more than 20 answers to questions in
+  CONCATENATED_FILES/2026*questions.csv that they didn't create`
+Wayne (:wsmwk) [UTC-5:00 EST]: looks like platform34 is the only person who has more than 20 TB Android answers in 2026 (Jan and Feb):
+● Perfect! Here's the analysis for the Thunderbird Android metrics data:
+
+Answer creators with >20 total answers AND >20 answers to questions they didn't create:
+<pre>
+┌────────────┬───────────────┬───────────────────┐
+│ Creator    │ Total Answers │ Answers to Others │
+├────────────┼───────────────┼───────────────────┤
+│ platform34 │ 96            │ 96                │
+└────────────┴───────────────┴───────────────────┘
+</pre>
+
+In the Android metrics data from 2026, there is only 1 creator (platform34) who meets both criteria. Notably, all 96 of platform34's answers were to
+questions created by others (100%), meaning platform34 didn't create any of the questions they answered.
+   
