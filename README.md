@@ -2,6 +2,7 @@
 * We require all those who participate in this repo to agree and adhere to the [Mozilla Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/) 
 
 # 2026-03-12 Investigation of the apparent drop in trusted contributor answers in February 2026 compared to January
+* LOL the LLM correct my incorrect url from the incorrect `support.mozilla.org/'id'` to the correct `support.mozilla.org/questions/{id}`
 > Using the available tools, the question files (filenames: 2026-02\*tbandroid-creator-answers-desktop-all-locales.csv)  and the answer files (filenames:
   2026-02\*answers-for-questions-desktop.csv) located in the 2026 directory of the thunderbird/github-action-tbandroid-aaq github repo, please open in the
     browser (url: support.mozilla.org/'id' where 'id' is from 'id' column in the question files) all the questions that platform34 created answers for.
